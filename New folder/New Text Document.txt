@@ -1,0 +1,5 @@
+this is for jumbotron
+border-radius: .3rem; 
+margin-bottom: 2rem;
+
+class="mb-4 mb-lg-0">
